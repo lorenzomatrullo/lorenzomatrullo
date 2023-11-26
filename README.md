@@ -7,9 +7,8 @@
 >📫 How to reach me **lorenzomatrullo04@gmail.com**<br />
 >🏋🏻‍♂️ I love to **work out**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://twitter.com/lorenzomatrullo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lorenzomatrullo" height="30" width="40" /></a>
 <a href="https://instagram.com/lorenzomatrullo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lorenzomatrullo" height="30" width="40" /></a>
 </p>
 
