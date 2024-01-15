@@ -3,7 +3,6 @@
 <h3 align="center">Student in Computer Science.</h3>
 
 >🖥️ I’m currently learning _**C programming language**_<br />
->🤝 I’m looking for help with _**Advanced C programming**_<br />
 >📫 How to reach me **lorenzomatrullo04@gmail.com**<br />
 >🏋🏻‍♂️ I love to **work out**
 
