@@ -4,7 +4,7 @@
 
 >🖥️ I’m currently learning _**C programming language**_<br />
 >📫 How to reach me **lorenzomatrullo04@gmail.com**<br />
->🏋🏻‍♂️ I love to **work out**
+>🏋🏻‍♂️ Bodybuilding & Boxing **Athlete**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
