@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Lorenzo Matrullo</h1>
 <h3 align="center">Student in Computer Science.</h3>
 
->🖥️ I’m currently learning _**C programming language**_<br />
+>🖥️ I’m currently learning _**C++ programming language**_<br />
 >📫 How to reach me **lorenzomatrullo04@gmail.com**<br />
 >🏋🏻‍♂️ Bodybuilding & Boxing **Athlete**
 
