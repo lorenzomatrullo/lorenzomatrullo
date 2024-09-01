@@ -1,23 +1,19 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi, I'm Lorenzo Matrullo</h1>
-<h3 align="center">Student in Computer Science.</h3>
+# Hi there 👋
 
->🖥️ I’m currently learning _**C++ programming language**_<br />
->📫 How to reach me **lorenzomatrullo04@gmail.com**<br />
->🏋🏻‍♂️ Bodybuilding & Boxing **Athlete**
+I'm [Your Name], a passionate developer with a love for creating clean, efficient, and impactful code.
 
-<h3 align="left">Contact me:</h3>
-<p align="left">
-  <a href="https://instagram.com/lorenzomatrullo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lorenzomatrullo" height="30" width="40" /></a>
-</p>
+- 🌱 I’m currently learning **[Your Current Learning Focus]**
+- 👯 I’m looking to collaborate on **[Project Type or Technology]**
+- 📫 How to reach me: [Your Email] | [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>   </a>
-  <a href="nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-</p>
+## 🛠️ Tech Stack
+- **Languages:** [Language 1], [Language 2], [Language 3]
+- **Frameworks:** [Framework 1], [Framework 2], [Framework 3]
+- **Tools:** [Tool 1], [Tool 2], [Tool 3]
+
+## 🔍 Find me around the web
+- [Blog](https://yourblog.com) | [Portfolio](https://yourportfolio.com)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
