@@ -5,6 +5,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Lorenzo+Matrullo" alt="Typing SVG">
 </h1>
 
+<div align="center">
+    <a href="lorenzomatrullo.dev" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-099dbd?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=099dbd">
+    </a>
+</div>
+
 
 <h3 align="center">I am a Software Developer from Naples, Italy</h3>
 
@@ -13,24 +19,6 @@
 * Working on a **startup project** called **Codework**
 * Working on my personal **Portfolio Website**
 * Currently learning **NAS** and **VPS** systems
-
-
-<br />
-
-
-<div align="center">
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
-      target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
 
 
 <br></br>
