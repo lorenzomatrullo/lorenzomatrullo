@@ -2,11 +2,11 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8D230F&center=true&vCenter=true&width=435&lines=Lorenzo+Matrullo" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Lorenzo+Matrullo" alt="Typing SVG">
 </h1>
 
 
-<h3 align="center">I'm a software developer from Naples, Italy 🇮🇹</h3>
+<h3 align="center">I'm a Software Developer from Naples, Italy 🇮🇹</h3>
 
 <br>
 
