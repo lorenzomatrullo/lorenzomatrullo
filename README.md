@@ -1,21 +1,97 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
-# 💫 About Me:
-Im currently working on portfolio website!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lorenzomatrullo.lorenzomatrullo" />
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/codework) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lorenzomatrullo) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorenzomatrullo&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&card_width=400)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzomatrullo&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=400)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8D230F&center=true&vCenter=true&width=435&lines=Lorenzo+Matrullo" alt="Typing SVG">
+</h1>
 
 
----
-![](https://visitcount.itsvg.in/api?id=lorenzomatrullo&icon=0&color=12)
+<h3 align="center">I'm a software developer from Naples, Italy 🇮🇹</h3>
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lorenzomatrullo) 
+<br>
+
+* <span style="color: lightgreen;">Working on</span> a **startup project** called **Codework**
+* Currently learning **NAS** and **VPS** systems
+
+
+
+<br />
+
+<div align="center">
+
+  🔭 I’m currently working on **a marketplace**
+
+
+</div>
+
+<div align="center">
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
+      target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+
+<br></br>
+
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<div class="frameworks" align="left">
+    <p> 
+        <a href="https://www.cprogramming.com/" target=_blank rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c"></a>
+        <a href="https://www.cprogramming.com/" target=_blank rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp"></a>
+        <a href="https://www.javascript.com/" target=_blank rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js"></a>
+        <a href="https://www.w3schools.com/html/" target=_blank rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html"></a>
+        <a href="https://www.w3schools.com/css/" target=_blank rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css"></a>
+        <a href="https://discord.js.org/" target=_blank rel="noreferrer"> <img src="https://skillicons.dev/icons?i=discordjs"></a>
+        <a href="https://nodejs.org/en" target=_blank rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs"></a>
+        <a href="https://www.mongodb.com/" target=_blank rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb"></a>
+    </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions"
+    src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
+  <br /><br /><br />
+</div>
+
+<hr />
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10"
+    alt="streak stats" />
+  <img width=390
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+    alt="readme stats" />
+  <br />
+  <img width=325 align="center"
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+    alt="top langs" />
+</div>
+
+<br /><br />
+
+<hr />
+
+
+<div align="center">
+  <a href='https://www.paypal.com/paypalme/lorenzomatrullo' target='_blank'><img height='64'
+      style='border:0px;height:150px;'
+      src='https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png'
+      border='0' alt='PayPal' /></a>
+</div>
