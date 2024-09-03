@@ -6,7 +6,7 @@
 </h1>
 
 
-<h3 align="center">I'm a Software Developer from Naples, Italy 🇮🇹</h3>
+<h3 align="center">I am a Software Developer from Naples, Italy 🇮🇹</h3>
 
 <br>
 
