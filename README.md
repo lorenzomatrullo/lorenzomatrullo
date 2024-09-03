@@ -10,19 +10,13 @@
 
 <br>
 
-* <span style="color: lightgreen;">Working on</span> a **startup project** called **Codework**
+* Working on a **startup project** called **Codework**
+* Working on my personal **Portfolio Website**
 * Currently learning **NAS** and **VPS** systems
-
 
 
 <br />
 
-<div align="center">
-
-  🔭 I’m currently working on **a marketplace**
-
-
-</div>
 
 <div align="center">
   <a href="mailto:pedro.sales.muniz@gmail.com">
@@ -90,8 +84,7 @@
 
 
 <div align="center">
-  <a href='https://www.paypal.com/paypalme/lorenzomatrullo' target='_blank'><img height='64'
-      style='border:0px;height:150px;'
-      src='https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png'
-      border='0' alt='PayPal' /></a>
+    <a href="https://www.paypal.com/paypalme/lorenzomatrullo" target="_blank">
+        <img style='border:0px;height:100px' src="https://i.imgur.com/opWjSXY.png">
+    </a>
 </div>
