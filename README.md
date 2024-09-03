@@ -3,11 +3,13 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Lorenzo+Matrullo" alt="Typing SVG">
-    <br>
-    <a href="https://lorenzomatrullo.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-099dbd?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=099dbd" width="125">
-    </a>
 </h1>
+
+<div align="center">
+    <a href="lorenzomatrullo.dev" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-099dbd?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=099dbd">
+    </a>
+</div>
 
 
 <h3 align="center">I am a Software Developer from Naples, Italy</h3>
@@ -18,10 +20,10 @@
 * Working on my personal **Portfolio Website**
 * Currently learning **NAS** and **VPS** systems
 
+<br>
 
-<br></br>
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools</h2>
 
 <div class="frameworks" align="left">
     <p> 
@@ -36,9 +38,9 @@
     </p>
 </div>
 
-<br /><br />
+<br>
 
-<hr />
+<hr>
 
 <div align="center">
     <a href="https://www.paypal.com/paypalme/lorenzomatrullo" target="_blank">
