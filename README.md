@@ -3,13 +3,11 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Lorenzo+Matrullo" alt="Typing SVG">
-</h1>
-
-<div align="center">
+    <br>
     <a href="https://lorenzomatrullo.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-099dbd?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=099dbd">
+        <img src="https://img.shields.io/badge/Portfolio-099dbd?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=099dbd" width="125">
     </a>
-</div>
+</h1>
 
 
 <h3 align="center">I am a Software Developer from Naples, Italy</h3>
