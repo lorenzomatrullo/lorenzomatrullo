@@ -40,8 +40,6 @@
 
 <br>
 
-[![Spotify](https://spotify-bi9pgbqtx-lorenzomatrullos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/11102089837?si=e0f1112849e743ee)
-
 
 <hr>
 
