@@ -12,31 +12,60 @@
 </div>
 
 
-<h3 align="center">I am a Software Developer from Naples, Italy</h3>
+<h2 align="left">I am a Software Developer from Naples, Italy</h2>
 
-<br>
 
 * Working on a **startup project** called **Codework**
-* Working on my personal **Portfolio Website**
+- Working on my personal **Portfolio Website**
 * Currently learning **NAS** and **VPS** systems
+
 
 <br>
 
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools</h2>
-
 <div class="frameworks" align="left">
-    <p> 
-        <a href="https://www.cprogramming.com/" target=_blank rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c"></a>
-        <a href="https://www.cprogramming.com/" target=_blank rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp"></a>
-        <a href="https://www.javascript.com/" target=_blank rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js"></a>
-        <a href="https://www.w3schools.com/html/" target=_blank rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html"></a>
-        <a href="https://www.w3schools.com/css/" target=_blank rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css"></a>
-        <a href="https://discord.js.org/" target=_blank rel="noreferrer"> <img src="https://skillicons.dev/icons?i=discordjs"></a>
-        <a href="https://nodejs.org/en" target=_blank rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs"></a>
-        <a href="https://www.mongodb.com/" target=_blank rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb"></a>
-    </p>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=c">
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=cpp">
+    </a>
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=js">
+    </a>
+    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=html">
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=css">
+    </a>
+    <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=discordjs">
+    </a>
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=nodejs">
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=mongodb">
+    </a>
 </div>
+
+<br>
+
+
+<h2> 📓 Contacts </h2>
+<div class="contacts" align="left">
+    <a href="mailto:contact@lorenzomatrullo.dev" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=gmail">
+    </a>
+    <a href="https://www.instagram.com/lorenzomatrullo/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=instagram">
+    </a>
+</div>
+
+
+
 
 <br>
 
