@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
-    <a href="lorenzomatrullo.dev" target="_blank">
+    <a href="lorenzomatrullo.ddns.net/portfolio" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-099dbd?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=099dbd">
     </a>
 </div>
