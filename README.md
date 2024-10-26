@@ -27,6 +27,9 @@
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools</h2>
 <div class="frameworks" align="left">
+    <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=swift">
+    </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=c">
     </a>
