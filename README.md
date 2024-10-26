@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lorenzomatrullo.lorenzomatrullo" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lorenzomatrullo.lorenzomatrullo"/>
 
 
 <h1 align="center">
@@ -18,7 +18,7 @@
 * Working on a **startup project** "**Codework**"
 - Working on my personal **Portfolio Website**
 * Currently learning **NAS** and **VPS** systems
-- Now learning Swift/Swift UI
+- Now learning **Swift**/**Swift UI**
 
 
 
