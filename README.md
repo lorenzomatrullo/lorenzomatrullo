@@ -18,6 +18,8 @@
 * Working on a **startup project** "**Codework**"
 - Working on my personal **Portfolio Website**
 * Currently learning **NAS** and **VPS** systems
+- Now learning Swift/Swift UI
+
 
 
 <br>
