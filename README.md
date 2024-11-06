@@ -77,6 +77,6 @@
 
 <div align="center">
     <a href="https://www.paypal.com/paypalme/lorenzomatrullo" target="_blank">
-        <img style='border:0px;height:100px' src="https://i.imgur.com/opWjSXY.png">
+        <img style='border:0px;height:100px' src="http://lorenzomatrullo.ddns.net/github-profile/paypal-button.png">
     </a>
 </div>
