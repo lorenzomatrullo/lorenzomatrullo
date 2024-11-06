@@ -28,31 +28,31 @@
 <h2 align="left">⚒️ Languages-Frameworks-Tools</h2>
 <div class="frameworks" align="left">
     <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=swift">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/swift.svg">
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=c">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/c.svg">
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=cpp">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/cpp.svg">
     </a>
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=js">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/javascript.svg">
     </a>
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=html">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/html.svg">
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=css">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/css.svg">
     </a>
     <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=discordjs">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/discordjs.svg">
     </a>
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=nodejs">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/nodejs.svg">
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mongodb">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/mongodb.svg">
     </a>
 </div>
 
@@ -62,10 +62,10 @@
 <h2> 📓 Contacts </h2>
 <div class="contacts" align="left">
     <a href="mailto:contact@lorenzomatrullo.dev" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=gmail">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/gmail.svg">
     </a>
     <a href="https://www.instagram.com/lorenzomatrullo/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=instagram">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/instagram.svg">
     </a>
 </div>
 
