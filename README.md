@@ -13,16 +13,11 @@
 
 <h2 align="left">I am a Software Developer from Naples, Italy</h2>
 
-
 * Working on a **startup project** "**Codework**"
-- Working on my personal **Portfolio Website**
 * Currently learning **NAS** and **VPS** systems
-- Now learning **Swift**/**Swift UI**
-
 
 
 <br>
-
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools</h2>
 <div class="frameworks" align="left">
@@ -57,7 +52,6 @@
 
 <br>
 
-
 <h2> 📓 Contacts </h2>
 <div class="contacts" align="left">
     <a href="mailto:contact@lorenzomatrullo.dev" target="_blank" rel="noreferrer">
@@ -68,11 +62,7 @@
     </a>
 </div>
 
-
-
-
 <br>
-
 <hr>
 
 <div align="center">
