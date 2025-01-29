@@ -14,7 +14,7 @@
 <h2 align="left">I am a Software Developer from Naples, Italy</h2>
 
 * Working on a **startup project** "**Codework**"
-* Working on an **E-Business** **Onyx**
+* Working on an **E-Business** "**Onyx**"
 * Currently learning **NAS** and **VPS** systems
 
 
