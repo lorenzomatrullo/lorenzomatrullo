@@ -14,7 +14,7 @@
 <h2 align="left">I am a Software Developer from Naples, Italy</h2>
 
 * Working on an **E-Business** "**Onyx**"
-* Cloud Computing...
+* AWS Cloud Computing
 
 
 <br>
