@@ -10,12 +10,20 @@
     </a>
 </div>
 
+<br>
+
+<div align="center">
+    <a href="https://discord.com/users/30792144622583808" target="_blank">
+        <img src="https://lanyard.cnrad.dev/api/307921446225838080">
+    </a>
+</div>
+
+<br>
 
 <h2 align="left">I am a Software Developer from Naples, Italy</h2>
 
 * Working on an **E-Business** "**Onyx**"
 * AWS Cloud Computing
-
 
 <br>
 
