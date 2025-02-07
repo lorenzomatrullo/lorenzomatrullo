@@ -1,14 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lorenzomatrullo.lorenzomatrullo"/>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=469ab9&center=true&vCenter=true&width=435&lines=Lorenzo+Matrullo" alt="Typing SVG">
-</h1>
 
+<!--
 <div align="center">
     <a href="https://lorenzomatrullo.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-099dbd?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=099dbd">
     </a>
 </div>
+-->
 
 <br>
 
