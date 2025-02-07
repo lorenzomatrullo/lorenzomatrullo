@@ -62,7 +62,7 @@
 
 <h2> 📓 Contacts </h2>
 <div class="contacts" align="left">
-    <a href="mailto:contact@lorenzomatrullo.dev" target="_blank" rel="noreferrer">
+    <a href="mailto:info@lorenzomatrullo.dev" target="_blank" rel="noreferrer">
         <img src="http://lorenzomatrullo.ddns.net/github-profile/gmail.svg">
     </a>
     <a href="https://www.instagram.com/lorenzomatrullo/" target="_blank" rel="noreferrer">
