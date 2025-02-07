@@ -20,7 +20,7 @@
 
 <br>
 
-<h2 align="left">I am a Software Developer from Naples, Italy</h2>
+<h2 align="left">Software Developer from Naples, Italy</h2>
 
 * Working on an **E-Business** "**Onyx**"
 * AWS Cloud Computing
