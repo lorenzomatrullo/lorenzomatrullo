@@ -42,7 +42,7 @@
         <img src="http://lorenzomatrullo.ddns.net/github-profile/lua.svg">
     </a>
     <a href="https://github.com/lorenzomatrullo/Batch" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=powershell">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/icons.svg">
     </a>
     <br>
     <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
