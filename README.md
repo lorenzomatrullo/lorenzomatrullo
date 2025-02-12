@@ -38,6 +38,19 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="http://lorenzomatrullo.ddns.net/github-profile/css.svg">
     </a>
+    <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/lua.svg">
+    </a>
+    <br>
+    <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/apple.svg">
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/aws.svg">
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/git.svg">
+    </a>
     <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
         <img src="http://lorenzomatrullo.ddns.net/github-profile/discordjs.svg">
     </a>
