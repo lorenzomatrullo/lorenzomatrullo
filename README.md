@@ -29,7 +29,7 @@
     <a href="https://github.com/lorenzomatrullo/cpp" target="_blank" rel="noreferrer">
         <img src="http://lorenzomatrullo.ddns.net/github-profile/cpp.svg">
     </a>
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <a href="https://github.com/lorenzomatrullo/JavaScript" target="_blank" rel="noreferrer">
         <img src="http://lorenzomatrullo.ddns.net/github-profile/javascript.svg">
     </a>
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
