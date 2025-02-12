@@ -20,13 +20,13 @@
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools</h2>
 <div class="frameworks" align="left">
-    <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
+    <a href="https://github.com/lorenzomatrullo/Swift" target="_blank" rel="noreferrer">
         <img src="http://lorenzomatrullo.ddns.net/github-profile/swift.svg">
     </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <a href="https://github.com/lorenzomatrullo/c-programming" target="_blank" rel="noreferrer">
         <img src="http://lorenzomatrullo.ddns.net/github-profile/c.svg">
     </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <a href="https://github.com/lorenzomatrullo/cpp" target="_blank" rel="noreferrer">
         <img src="http://lorenzomatrullo.ddns.net/github-profile/cpp.svg">
     </a>
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
