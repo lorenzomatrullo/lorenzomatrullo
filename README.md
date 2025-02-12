@@ -38,7 +38,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="http://lorenzomatrullo.ddns.net/github-profile/css.svg">
     </a>
-    <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+    <a href="https://github.com/lorenzomatrullo/Lua" target="_blank" rel="noreferrer">
         <img src="http://lorenzomatrullo.ddns.net/github-profile/lua.svg">
     </a>
     <br>
