@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lorenzomatrullo.lorenzomatrullo"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lorenzomatrullo.lorenzomatrullo&left_color=%23262831&right_color=%23262831"/>
 
 
 <br>
