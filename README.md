@@ -13,7 +13,7 @@
 
 <h2 align="left">👨‍💻 Software Developer from Naples, Italy</h2>
 
-* Working on an **Online Business** based on Gaming Software — "**Onyx**"
+* Working on an **Online Business** based on Gaming Softwares — "**Onyx**"
 * AWS Cloud Computing
 
 <br>
