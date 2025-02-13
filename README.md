@@ -23,6 +23,9 @@
     <a href="https://github.com/lorenzomatrullo/Swift" target="_blank" rel="noreferrer">
         <img src="http://lorenzomatrullo.ddns.net/github-profile/swift.svg">
     </a>
+    <a href="https://github.com/lorenzomatrullo/Swift" target="_blank" rel="noreferrer">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/swiftui.png?v=2">
+    </a>
     <a href="https://github.com/lorenzomatrullo/c-programming" target="_blank" rel="noreferrer">
         <img src="http://lorenzomatrullo.ddns.net/github-profile/c.svg">
     </a>
@@ -42,7 +45,7 @@
         <img src="http://lorenzomatrullo.ddns.net/github-profile/lua.svg">
     </a>
     <a href="https://github.com/lorenzomatrullo/Batch" target="_blank" rel="noreferrer">
-        <img src="http://lorenzomatrullo.ddns.net/github-profile/icons.svg">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/commandline.svg">
     </a>
     <br>
     <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
