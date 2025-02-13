@@ -45,7 +45,7 @@
         <img src="http://lorenzomatrullo.ddns.net/github-profile/lua.svg">
     </a>
     <a href="https://github.com/lorenzomatrullo/Batch" target="_blank" rel="noreferrer">
-        <img src="http://lorenzomatrullo.ddns.net/github-profile/commandline.svg">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/powershell.svg?v=2">
     </a>
     <br>
     <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
