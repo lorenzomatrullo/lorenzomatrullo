@@ -15,7 +15,7 @@
 
 * Working on an **Online Business** based on Gaming Softwares — "**Onyx**"
 * AWS Cloud Computing
-* Learning Reverse Engineering/Game Hacking
+* Learning Reverse Engineering/Memory Manipulation
 
 <br>
 
