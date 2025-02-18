@@ -67,6 +67,13 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="http://lorenzomatrullo.ddns.net/github-profile/mongodb.svg">
     </a>
+    <br>
+    <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=vscode">
+    </a>
+    <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=visualstudio">
+    </a>
 </div>
 
 <br>
