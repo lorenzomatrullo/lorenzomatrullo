@@ -12,8 +12,12 @@
 
 <h2 align="left">👨‍💻 Software Developer from Naples, Italy</h2>
 
+* **Certified iOS Developer (Apple Foundation Program Base Course)**
+* **Certified AWS Cloud Developer (Base Course)**
+  
+<br>
+
 * Working on an **Online Business** based on Gaming Softwares — "**Onyx**"
-* AWS Cloud Computing
 * Learning Reverse Engineering/Memory Manipulation
 
 <br>
