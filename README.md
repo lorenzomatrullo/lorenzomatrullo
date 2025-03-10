@@ -68,10 +68,10 @@
     </a>
     <br>
     <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=vscode">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/vscode.svg">
     </a>
     <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=visualstudio">
+        <img src="http://lorenzomatrullo.ddns.net/github-profile/vs2022.svg">
     </a>
 </div>
 
