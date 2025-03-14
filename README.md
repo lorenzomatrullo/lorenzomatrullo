@@ -12,13 +12,12 @@
 
 <h2 align="left">👨‍💻 Software Developer from Naples, Italy</h2>
 
-* **Certified iOS Developer (Apple Foundation Program Base Course)**
-* **Certified AWS Cloud Developer (Base Course)**
-  
-<br>
-
 * Working on an **Online Business** based on Gaming Softwares — "**Onyx**"
 * Learning Reverse Engineering/Memory Manipulation
+
+<br>
+
+<img align="left" src="http://nas.lorenzomatrullo.dev/github-profile/aws-academy-badge1.png"/>  **Certified AWS Cloud Developer**
 
 <br>
 
