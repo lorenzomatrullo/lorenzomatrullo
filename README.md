@@ -55,7 +55,7 @@
     <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/apple.svg">
     </a>
-    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <a href="https://aws.amazon.com/training/awsacademy/" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/aws.svg">
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -71,10 +71,10 @@
         <img src="http://nas.lorenzomatrullo.dev/github-profile/mongodb.svg">
     </a>
     <br>
-    <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/vscode.svg">
     </a>
-    <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
+    <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/vs2022.svg">
     </a>
 </div>
