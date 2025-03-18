@@ -12,14 +12,12 @@
 
 <h2 align="left">👨‍💻 Software Developer from Naples, Italy</h2>
 
-* Working on an **Online Business** based on Gaming Softwares — "**Onyx**"
-* Learning Reverse Engineering/Memory Manipulation
-
-<br>
-
 <img align="left" src="http://nas.lorenzomatrullo.dev/github-profile/aws-academy-badge1.png"/>  **Certified AWS Cloud Developer**
-
 <br>
+<br>
+<br>
+<br>
+
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools</h2>
 <div class="frameworks" align="left">
