@@ -12,7 +12,7 @@
 
 <h2 align="left">👨‍💻 Software Developer from Naples, Italy</h2>
 
-<img align="left" src="http://nas.lorenzomatrullo.dev/github-profile/aws-academy-badge1.png"/>  **Certified AWS Cloud Developer**
+<img align="left" src="http://nas.lorenzomatrullo.dev/github-profile/aws-academy-badge1.png"/>  **AWS Academy Cloud Foundations**
 <br>
 <br>
 <br>
