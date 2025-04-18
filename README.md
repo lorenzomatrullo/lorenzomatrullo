@@ -21,6 +21,9 @@
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools</h2>
 <div class="frameworks" align="left">
+    <a href="https://github.com/lorenzomatrullo/Python" target="_blank" rel="noreferrer">
+        <img src="http://nas.lorenzomatrullo.dev/github-profile/python.svg">
+    </a>
     <a href="https://github.com/lorenzomatrullo/Swift" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/swift.svg">
     </a>
