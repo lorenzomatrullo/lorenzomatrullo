@@ -53,7 +53,7 @@
     </a>
     <br>
     <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/apple.svg">
+        <img src="http://nas.lorenzomatrullo.dev/github-profile/apple2.svg">
     </a>
     <a href="https://aws.amazon.com/training/awsacademy/" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/aws.svg">
