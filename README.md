@@ -70,6 +70,9 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/mongodb.svg">
     </a>
+    <a href="https://learn.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
+        <img src="http://nas.lorenzomatrullo.dev/github-profile/windows.svg">
+    </a>
     <br>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/vscode.svg">
