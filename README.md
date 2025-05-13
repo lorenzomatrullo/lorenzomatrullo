@@ -39,12 +39,6 @@
     <a href="https://github.com/lorenzomatrullo/JavaScript" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/javascript.svg">
     </a>
-    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/html.svg">
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/css.svg">
-    </a>
     <a href="https://github.com/lorenzomatrullo/Lua" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/lua.svg">
     </a>
@@ -58,9 +52,6 @@
     <a href="https://aws.amazon.com/training/awsacademy/" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/aws.svg">
     </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/git.svg">
-    </a>
     <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/discordjs.svg">
     </a>
@@ -72,6 +63,9 @@
     </a>
     <a href="https://learn.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/windows.svg">
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="http://nas.lorenzomatrullo.dev/github-profile/git.svg">
     </a>
     <br>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
