@@ -39,7 +39,10 @@
         <img src="http://nas.lorenzomatrullo.dev/github-profile/lua.svg" title="Lua">
     </a>
     <a href="https://github.com/lorenzomatrullo/Batch" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/powershell.svg?v=2" title="PowerShell / Batch">
+        <img src="http://nas.lorenzomatrullo.dev/github-profile/powershell.svg" title="PowerShell / Batch">
+    </a>
+    <a href="https://github.com/lorenzomatrullo/electron-template" target="_blank" rel="noreferrer">
+        <img src="http://nas.lorenzomatrullo.dev/github-profile/electron.svg" title="Electron">
     </a>
     <br>
     <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
@@ -74,7 +77,7 @@
         <img src="http://nas.lorenzomatrullo.dev/github-profile/filezilla.svg" title="FileZilla">
     </a>
     <a href="https://www.putty.org/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/putty2.svg" title="PuTTY">
+        <img src="http://nas.lorenzomatrullo.dev/github-profile/putty.svg" title="PuTTY">
     </a>
 </div>
 
