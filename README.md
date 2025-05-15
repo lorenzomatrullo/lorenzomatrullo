@@ -91,6 +91,9 @@
     <a href="https://www.instagram.com/lorenzomatrullo/" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/instagram.svg" title="Instagram">
     </a>
+    <a href="https://www.reddit.com/user/Xenovyl/" target="_blank" rel="noreferrer">
+        <img src="http://nas.lorenzomatrullo.dev/github-profile/reddit5.png" title="Reddit">
+    </a>
 </div>
 
 <br>
