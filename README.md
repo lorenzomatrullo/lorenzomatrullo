@@ -12,10 +12,10 @@
 
 <h2 align="left">👨‍💻 Software Developer from Naples, Italy</h2>
 
-<img align="left" src="http://nas.lorenzomatrullo.dev/github-profile/aws-academy-foundations.png" title="AWS Academy Cloud Foundations"/>  **AWS Academy Cloud Foundations**
+<img align="left" src="http://nas.lorenzomatrullo.dev/github-profile/aws-academy-foundations.png" title="AWS Academy Cloud Foundations"/>  <strong>AWS Academy Cloud Foundations</strong>
 <br><br><br><br>
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools</h2>
+<h2 align="left">⚒️ Languages–Frameworks–Tools</h2>
 <div class="frameworks" align="left">
     <a href="https://github.com/lorenzomatrullo/Python" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/python.svg" title="Python">
@@ -41,18 +41,9 @@
     <a href="https://github.com/lorenzomatrullo/Batch" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/powershell.svg" title="PowerShell / Batch">
     </a>
+    <br>
     <a href="https://github.com/lorenzomatrullo/electron-template" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/electron.svg" title="Electron">
-    </a>
-    <br>
-    <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/apple.svg" title="Apple Developer">
-    </a>
-    <a href="https://aws.amazon.com/training/awsacademy/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/aws.svg" title="Amazon Web Services">
-    </a>
-    <a href="https://learn.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/windows.svg" title="Windows Development">
     </a>
     <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/discordjs.svg" title="discord.js">
@@ -62,6 +53,15 @@
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/mongodb.svg" title="MongoDB">
+    </a>
+    <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
+        <img src="http://nas.lorenzomatrullo.dev/github-profile/apple.svg" title="Apple Developer">
+    </a>
+    <a href="https://aws.amazon.com/training/awsacademy/" target="_blank" rel="noreferrer">
+        <img src="http://nas.lorenzomatrullo.dev/github-profile/aws.svg" title="Amazon Web Services">
+    </a>
+    <a href="https://learn.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
+        <img src="http://nas.lorenzomatrullo.dev/github-profile/windows.svg" title="Windows Development">
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="http://nas.lorenzomatrullo.dev/github-profile/git.svg" title="Git">
