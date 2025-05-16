@@ -13,9 +13,9 @@
 <h2 align="left">👨‍💻 Software Developer from Naples, Italy</h2>
 
 <p align="center">
-    <img src="http://nas.lorenzomatrullo.dev/github-profile/apple-test.png" width="150" alt="Apple Foundation Program"/>
-    <img src="http://nas.lorenzomatrullo.dev/github-profile/12345.png" width="150" alt="AWS Academy Cloud Foundations"/>
-    <img src="http://nas.lorenzomatrullo.dev/github-profile/123.png" width="150" alt="AWS Academy Cloud Developing"/>
+    <img src="http://nas.lorenzomatrullo.dev/github-profile/apple-ios-foundation-program.png" width="150" title="Apple iOS Foundation Program"/>
+    <img src="http://nas.lorenzomatrullo.dev/github-profile/aws-academy-cloud-foundations.png" width="150" title="AWS Academy Cloud Foundations"/>
+    <img src="http://nas.lorenzomatrullo.dev/github-profile/aws-academy-cloud-developing.png" width="150" title="AWS Academy Cloud Developing"/>
 </p>
 
 <br>
