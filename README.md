@@ -4,7 +4,7 @@
 
 <div align="center">
     <a href="https://lorenzomatrullo.dev/" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/307921446225838080" title="Discord Presence">
+        <img src="https://lanyard.cnrad.dev/api/307921446225838080">
     </a>
 </div>
 
