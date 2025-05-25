@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    <a href="https://lorenzomatrullo.dev/" target="_blank">
+    <a href="https://discord.com/users/307921446225838080" target="_blank">
         <img src="https://lanyard.cnrad.dev/api/307921446225838080">
     </a>
 </div>
