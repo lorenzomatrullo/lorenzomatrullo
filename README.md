@@ -102,7 +102,7 @@
 </div>
 
 <br>
-<hr>
+<h2></h2>
 
 <div align="center">
     <a href="https://www.paypal.com/paypalme/lorenzomatrullo" target="_blank">
