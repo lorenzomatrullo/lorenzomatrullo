@@ -10,7 +10,7 @@
 
 <br>
 
-<h2 align="left">👨‍💻 Software Developer from Naples, Italy</h2>
+<h2 align="left">👨‍💻 Software Engineer from Naples, Italy</h2>
 
 <p align="center">
     <img src="http://nas.lorenzomatrullo.dev/github-profile/apple-ios-foundation-program.png" width="150" title="Apple iOS Foundation Program"/>
