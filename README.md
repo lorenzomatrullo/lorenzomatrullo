@@ -13,9 +13,9 @@
 <h2 align="left">👨‍💻 Software Engineer from Naples, Italy</h2>
 
 <p align="center">
-    <img src="http://nas.lorenzomatrullo.dev/github-profile/apple-ios-foundation-program.png" width="150" title="Apple iOS Foundation Program"/>
-    <img src="http://nas.lorenzomatrullo.dev/github-profile/aws-academy-cloud-foundations.png" width="150" title="AWS Academy Cloud Foundations"/>
-    <img src="http://nas.lorenzomatrullo.dev/github-profile/aws-academy-cloud-developing.png" width="150" title="AWS Academy Cloud Developing"/>
+    <img src="https://vps.lorenzomatrullo.dev/view/github-profile/apple-ios-foundation-program.png" width="150" title="Apple iOS Foundation Program"/>
+    <img src="https://vps.lorenzomatrullo.dev/view/github-profile/aws-academy-cloud-foundations.png" width="150" title="AWS Academy Cloud Foundations"/>
+    <img src="https://vps.lorenzomatrullo.dev/view/github-profile/aws-academy-cloud-developing.png" width="150" title="AWS Academy Cloud Developing"/>
 </p>
 
 <br>
@@ -23,66 +23,66 @@
 <h2 align="left">⚒️ Languages–Frameworks–Tools</h2>
 <div class="frameworks" align="left">
     <a href="https://github.com/lorenzomatrullo/Python" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/python.svg" title="Python">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/python.svg" title="Python">
     </a>
     <a href="https://github.com/lorenzomatrullo/Swift" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/swift.svg" title="Swift">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/swift.svg" title="Swift">
     </a>
     <a href="https://github.com/lorenzomatrullo/Swift" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/swiftui.png" title="SwiftUI">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/swiftui.png" title="SwiftUI">
     </a>
     <a href="https://github.com/lorenzomatrullo/c-programming" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/c.svg" title="C">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/c.svg" title="C">
     </a>
     <a href="https://github.com/lorenzomatrullo/cpp" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/cpp.svg" title="C++">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/cpp.svg" title="C++">
     </a>
     <a href="https://github.com/lorenzomatrullo/JavaScript" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/javascript.svg" title="JavaScript">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/javascript.svg" title="JavaScript">
     </a>
     <a href="https://github.com/lorenzomatrullo/Lua" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/lua.svg" title="Lua">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/lua.svg" title="Lua">
     </a>
     <a href="https://github.com/lorenzomatrullo/Batch" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/powershell.svg" title="PowerShell / Batch">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/powershell.svg" title="PowerShell / Batch">
     </a>
     <br>
     <a href="https://github.com/lorenzomatrullo/electron-template" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/electron.svg" title="Electron">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/electron.svg" title="Electron">
     </a>
     <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/discordjs.svg" title="discord.js">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/discordjs.svg" title="discord.js">
     </a>
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/nodejs.svg" title="Node.js">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/nodejs.svg" title="Node.js">
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/mongodb.svg" title="MongoDB">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/mongodb.svg" title="MongoDB">
     </a>
     <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/apple.svg" title="Apple Developer">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/apple.svg" title="Apple Developer">
     </a>
     <a href="https://aws.amazon.com/training/awsacademy/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/aws.svg" title="Amazon Web Services">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/aws.svg" title="Amazon Web Services">
     </a>
     <a href="https://learn.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/windows.svg" title="Windows Development">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/windows.svg" title="Windows Development">
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/git.svg" title="Git">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/git.svg" title="Git">
     </a>
     <br>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/vscode.svg" title="Visual Studio Code">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/vscode.svg" title="Visual Studio Code">
     </a>
     <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/vs2022.svg" title="Visual Studio 2022">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/vs2022.svg" title="Visual Studio 2022">
     </a>
     <a href="https://filezilla-project.org/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/filezilla.svg" title="FileZilla">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/filezilla.svg" title="FileZilla">
     </a>
     <a href="https://www.putty.org/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/putty.svg" title="PuTTY">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/putty.svg" title="PuTTY">
     </a>
 </div>
 
@@ -91,13 +91,13 @@
 <h2> 📓 Contacts </h2>
 <div class="contacts" align="left">
     <a href="mailto:contact@lorenzomatrullo.dev" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/gmail.svg" title="Email">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/gmail.svg" title="Email">
     </a>
     <a href="https://www.instagram.com/lorenzomatrullo/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/instagram.svg" title="Instagram">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/instagram.svg" title="Instagram">
     </a>
     <a href="https://www.reddit.com/user/Xenovyl/" target="_blank" rel="noreferrer">
-        <img src="http://nas.lorenzomatrullo.dev/github-profile/reddit5.png" title="Reddit">
+        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/reddit5.png" title="Reddit">
     </a>
 </div>
 
@@ -106,6 +106,6 @@
 
 <div align="center">
     <a href="https://www.paypal.com/paypalme/lorenzomatrullo" target="_blank">
-        <img style='border:0px;height:100px' src="http://nas.lorenzomatrullo.dev/github-profile/paypal-button.png" title="Donate via PayPal">
+        <img style='border:0px;height:100px' src="https://vps.lorenzomatrullo.dev/view/github-profile/paypal-button.png" title="Donate via PayPal">
     </a>
 </div>
