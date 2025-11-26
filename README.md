@@ -87,21 +87,6 @@
 </div>
 
 <br>
-
-<h2> 📓 Contacts </h2>
-<div class="contacts" align="left">
-    <a href="mailto:contact@lorenzomatrullo.dev" target="_blank" rel="noreferrer">
-        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/gmail.svg" title="Email">
-    </a>
-    <a href="https://www.instagram.com/lorenzomatrullo/" target="_blank" rel="noreferrer">
-        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/instagram.svg" title="Instagram">
-    </a>
-    <a href="https://www.reddit.com/user/Xenovyl/" target="_blank" rel="noreferrer">
-        <img src="https://vps.lorenzomatrullo.dev/view/github-profile/reddit5.png" title="Reddit">
-    </a>
-</div>
-
-<br>
 <h2></h2>
 
 <div align="center">
