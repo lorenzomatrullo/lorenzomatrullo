@@ -85,12 +85,3 @@
         <img src="https://vps.lorenzomatrullo.dev/view/github-profile/putty.svg" title="PuTTY">
     </a>
 </div>
-
-<br>
-<h2></h2>
-
-<div align="center">
-    <a href="https://www.paypal.com/paypalme/lorenzomatrullo" target="_blank">
-        <img style='border:0px;height:100px' src="https://vps.lorenzomatrullo.dev/view/github-profile/paypal-button.png" title="Donate via PayPal">
-    </a>
-</div>
