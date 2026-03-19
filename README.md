@@ -28,7 +28,7 @@
     <a href="https://github.com/lorenzomatrullo/Swift" target="_blank" rel="noreferrer">
         <img src="https://vps.lorenzomatrullo.dev/view/github-profile/swift.svg" title="Swift">
     </a>
-    <a href="https://github.com/lorenzomatrullo/Swift" target="_blank" rel="noreferrer">
+    <a href="https://github.com/lorenzomatrullo/iOS26-Development" target="_blank" rel="noreferrer">
         <img src="https://vps.lorenzomatrullo.dev/view/github-profile/swiftui.png" title="SwiftUI">
     </a>
     <a href="https://github.com/lorenzomatrullo/c-programming" target="_blank" rel="noreferrer">
