@@ -5,4 +5,4 @@
 
 <br>
 
-[Website](https://lorenzomatrullo.dev) · [LinkedIn](https://www.linkedin.com/in/lorenzomatrullo/) · [Instagram](https://www.instagram.com/lorenzomatrullo/) · [Email](mailto:contact@lorenzomatrullo.dev)
+[Website](https://lorenzomatrullo.dev) · [LinkedIn](https://www.linkedin.com/in/lorenzomatrullo/) · [Email](mailto:contact@lorenzomatrullo.dev)
