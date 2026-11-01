@@ -1,4 +1,4 @@
-![I build things that work well and feel right.](banner.png)
+![banner](profile-banner.png)
 
 - Software Engineer in Spatial Computing @ Apple
 - Studying Computer Science, Digital Transformation & Cybersecurity
